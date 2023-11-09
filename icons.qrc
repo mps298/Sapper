@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/bomb.png</file>
+        <file>icons/bombed.png</file>
+        <file>icons/closed.png</file>
+        <file>icons/flaged.png</file>
+        <file>icons/icon.png</file>
+        <file>icons/inform.png</file>
+        <file>icons/nobomb.png</file>
+        <file>icons/num1.png</file>
+        <file>icons/num2.png</file>
+        <file>icons/num3.png</file>
+        <file>icons/num4.png</file>
+        <file>icons/num5.png</file>
+        <file>icons/num6.png</file>
+        <file>icons/num7.png</file>
+        <file>icons/num8.png</file>
+        <file>icons/opened.png</file>
+        <file>icons/zero.png</file>
+        <file>icons/icon.ico</file>
+    </qresource>
+</RCC>
